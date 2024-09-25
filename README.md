@@ -22,11 +22,13 @@ Here's an example you can paste into your Nushell session after importing the sc
 --period 5
 )
 ```
+![custom demo](./demos/custom_demo.gif)
 
 Or just enjoy sensible defaults
+![default demo](./demos/default_demo.gif)
 
-For this script to be ran your terminal must support [ANSI escape codes] which
-it most likely does.
+For this script to be run your terminal must support [ANSI escape codes] which
+it most likely does. This script was tested on Windows Terminal and GNOME Terminal.
 
 [digital rain]: https://en.wikipedia.org/wiki/Matrix_digital_rain
 [Nushell]: https://www.nushell.sh
